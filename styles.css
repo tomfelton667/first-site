@@ -1,0 +1,25 @@
+h1 {
+		color: grey;
+		font-size: 70px;
+}
+ul li {
+		border: solid;
+}
+
+#první{
+		color: grey;
+}
+.první třída{
+	font-style:italic;
+}
+h1{
+	text-align: center;
+}
+body{
+	background-image:" ujasos"
+}
+
+.highlight {
+	color:pink;
+	font-weight:bold;
+}
